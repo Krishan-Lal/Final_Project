@@ -1,0 +1,17 @@
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+img {
+    max-width: 300px;
+}
+
+.border1 {
+    border: 1px solid rgb(151, 151, 151);
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+}

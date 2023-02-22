@@ -1,0 +1,14 @@
+.navbar {
+    height: 100px;
+}
+
+.fa-shopping-cart {
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.badge:hover {
+    filter: invert(100);
+    
+}

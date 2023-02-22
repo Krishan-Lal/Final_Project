@@ -1,0 +1,15 @@
+.card {
+    width: 20vw;
+    text-align: center;
+    justify-content: center;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+
+.pImg {
+    width: 8vw;
+}
